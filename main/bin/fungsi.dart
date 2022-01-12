@@ -8,9 +8,18 @@ tidak mengembalikan apapun , maka tipe datanya adalah void.
 
  */
 
-// Fungsi sederhana
+
+
+// Cari dulu main , 
+// lalu cari function yang di jalankan 
+// bagian atas adalah all function 
+
+
 import 'dart:io';
 
+
+
+// Fungsi sederhana
 double luasSegiEmpat(double panjang, double lebar) {
   double hasil;
   hasil = panjang * lebar;
